@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gtbsolver",
+  "name": "GTB Solver",
+  "description": "Hypixel Guess the Build Solver",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jamesr"],
+  "credits": "Tme, myself, and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

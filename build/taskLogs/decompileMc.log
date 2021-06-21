@@ -1,0 +1,7 @@
+INFO:  Adding File to context from classpath: /home/sam/.gradle/wrapper/dists/gradle-4.9-bin/e9cinqnqvph59rr7g70qubb4t/gradle-4.9/lib/gradle-launcher-4.9.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/jfr.jar
