@@ -1,7 +1,13 @@
 .gradle
 /build/
+
+
 eclipse
 run
+bin
+
+# macos
+.DS_STORE
 
 # Ignore Gradle GUI config
 gradle-app.setting
