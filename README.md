@@ -4,4 +4,3 @@ i made this because i am bad at guess the build
 
 # installation
 clone and build the mod with ./gradlew build or download the releases
-copy GTBSolver.txt into your runtime/config directory
